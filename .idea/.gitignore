@@ -1,2 +1,4 @@
 # Default ignored files
 /workspace.xml
+# Locally created database
+./to_do_list/todo.db
